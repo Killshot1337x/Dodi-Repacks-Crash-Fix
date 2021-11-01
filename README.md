@@ -37,8 +37,8 @@ Fix 2-
 Fix-
         
         This is a very generic problem.More information is required to work on a fix for it.Your best bet is to scout google and reddit
-        threads for users facing the same problem,or to ask about it in the dodi server's help-section channel.
-        There are friendly people there that will help you.You can also create an issue on this repository.
+        threads for users facing the same problem.If you still can't figure it out, come to dodi's server(#help-section), the invite is given below.
+        You can also create an issue on this repository.
         
 [Dodi's server invite](https://discord.gg/tBFvqdQjZe)
 
