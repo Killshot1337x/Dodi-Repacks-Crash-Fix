@@ -21,7 +21,7 @@ Fix 2-
        
 
         Run event viewer using the guide given at the start of the guide.If you notice an error which says that something like Faulting module 
-        name: ntdll.dll,it is a windows build error. In this case, you'll have to either switch to windows 10, or windows 11
+        name: ntdll.dll is causing the error,it is a windows build error. In this case, you'll have to either switch to windows 10, or windows 11
         build 22478. 
 **SOME CRACKS DO NOT WORK AS INTENDED ON ALL BUILDS OF WIN 11**
 
