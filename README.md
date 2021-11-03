@@ -12,7 +12,7 @@ Fix 1-
         This is a fix if your crack has been damaged by your anti virus.Always keep all your Anti Viruses disabled when 
         dealing with repacks. 
         
-        To see if your anti virus is causing the error, run event viewer. If you see an error which specifies the faulting module as 
+        To see if your anti virus is causing the error, run event viewer. If you see an error which specifies the faulting module as a
         dll or exe file present in the game directory, this fix is for you. After turning your anti virus off, go to your torrent client and force recheck the torrent.
         Here's a simple guide for it: https://telegra.ph/Rehash-Force-Recheck-files-in-torrent-clients-03-02
         Then re install the game and see if it works.Alternatively, you can get cracks from cs.rin.ru, but force rechecking is easier.
@@ -20,7 +20,7 @@ Fix 1-
 Fix 2-
        
 
-        Run event viewer using the guide given at the start of the guide.If you notice an error which says that the Faulting module 
+        Run event viewer using the guide given at the start of the guide.If you notice an error which says that something like Faulting module 
         name: ntdll.dll,it is a windows build error. In this case, you'll have to either switch to windows 10, or windows 11
         build 22478. 
 **SOME CRACKS DO NOT WORK AS INTENDED ON ALL BUILDS OF WIN 11**
