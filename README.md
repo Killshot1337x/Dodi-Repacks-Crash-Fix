@@ -31,6 +31,18 @@ Fix 2-
 
         Guide to switch to win 10- https://www.youtube.com/watch?v=mPY7g6GnSg0 
         PS: You can use programs like KMS to activate win10/11 for free
+
+Fix 3-
+
+        In the event viewer,if you get an error which says that the faulting module is C:/Windows/System32/vrfcore.dll,like https://imgur.com/f7d8cpL,
+        it is a windows registry issue.Vrfcore.dll is used by Application Verifier and it creates registry entries in some cases. Make sure you don't 
+        delete or change anything else while trying to fix it.Follow these steps to fix it:
+        Goto Registry editor, win+R->regedit->HKEY_LOCAL_MACHINE->SOFTWARE->Microsoft->Windows NT->CurrentVersion-> Image File 
+        Execution Options -> (Your application name.exe). 
+        Then right Click and export the registry settings for backup. (IMPORTANT)
+        ->Delete the registry entry for your application and try to run the game.
+        This should fix the problem and the game should work fine.
+        
 **Case #2- 
         The game launched earlier but it's not launching now/the game is crashing at specific points only**
 
