@@ -29,7 +29,7 @@ Fix 2-
         I'm mentioning 2 of them here: 
         Guide to downgrade to win 11 build 22478- https://technclub.com/guides/download-windows-11-22478/
 
-        Guide to switch to win 10- https://www.youtube.com/watch?v=mPY7g6GnSg0 
+        Guide to switch to win 10- https://www.youtube.com/watch?v=OtHZueEZe9s
         PS: You can use programs like KMS to activate win10/11 for free
 
 Fix 3-
