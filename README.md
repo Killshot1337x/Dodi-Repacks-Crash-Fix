@@ -1,6 +1,6 @@
 # Dodi-Repacks-Crash-Fix
 A simple but detailed guide which focusses on crashfixes for games download through dodi repacks
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKillshot1337x%2FDodi-Repacks-Crash-Fix&count_bg=%236DC828&title_bg=%23D30000&icon=checkmarx.svg&icon_color=%232D0303&title=Today%27s%2FTotal+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKillshot1337x%2FDodi-Repacks-Crash-Fix&count_bg=%236DC828&title_bg=%23D30000&icon=checkmarx.svg&icon_color=%232D0303&title=Today%27s%2FTotal+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### This guide is for people who are facing crash issues with games downloaded from dodi repacks.We'll be focussing on the common causes for these crashes in this guide.A star to the repo would be appreciated.
